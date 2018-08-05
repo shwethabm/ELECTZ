@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ELECZ2</string>
+    <string name="kitchen">KITCHEN</string>
+    <string name="light1">Light1</string>
+    <string name="uesrname">Uesrname</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="new_user_sign_up">New User? Sign Up</string>
+    <string name="fan">Fan</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="fan2">Fan2</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="fan1">Fan1</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="light2">Light2</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="light2">Light2</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="fan">Fan</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+</resources>
